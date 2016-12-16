@@ -32,4 +32,13 @@ set list
 "set listchars+=space:·
 set t_vb= "remove screen flashing"
 set listchars=trail:.
+set modeline
 
+"python setting"
+set tabstop=8
+set expandtab
+set softtabstop=4
+set shiftwidth=4
+filetype indent on
+
+"autocomplete brackets"
